@@ -1,9 +1,8 @@
-# Part III — Constraint Economics & Flexibility Value (NB13–NB16)
+# Part III — Constraint Economics & Flexibility Value (Planned) (NB13–NB16)
 
 ## Scope
 
-Part III extends the engineering analysis into an economic framework.  
-It evaluates the market conditions accompanying constraint episodes and assesses the economic opportunity for flexibility assets.
+Part III extends the engineering analysis into an economic framework.  This section evaluates the market conditions accompanying constraint episodes and assesses the economic opportunity for flexibility assets.
 
 ---
 
