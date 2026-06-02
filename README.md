@@ -1,4 +1,4 @@
-# GB Constraint Intelligence Platform
+# GB Constraint Analytics Platform
 
 A three‑part analytical and modelling framework for understanding GB transmission constraints, storage feasibility, and flexibility economics. The platform integrates data engineering, operational behaviour analysis, and economic evaluation into a unified research environment.
 
@@ -13,6 +13,8 @@ The platform provides a structured approach to understanding:
 - which physical limitations matter most  
 - where economic value emerges for storage and other flexible technologies  
 
+The platform is designed as a cumulative research programme in which each layer builds on the outputs of the previous layer.
+
 The philosophy is simple:
 
 > Understand the physical system before evaluating economic value.
@@ -21,13 +23,13 @@ The philosophy is simple:
 
 ## Project Structure
 
-### **Part I — Data Platform (NB01–NB07)**  
+### **Part I — Data Platform & Signal Engineering (NB01–NB07)**  
 Data ingestion, validation, harmonisation, feature engineering, and construction of constraint‑ready analytical datasets.
 
 ### **Part II — Constraint Behaviour & Storage Feasibility (NB08–NB12)**  
 Persistence, clustering, operational burden, asset survivability, and state‑of‑charge dynamics.
 
-### **Part III — Constraint Economics & Flexibility Value (NB13–NB16)**  
+### **Part III — Constraint Economics & Flexibility Value (Planned) (NB13–NB16)**  
 Market conditions during constraint episodes, flexibility value, and economic opportunity assessment.
 
 ---
