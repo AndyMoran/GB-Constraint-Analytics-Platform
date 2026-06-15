@@ -28,7 +28,7 @@ The platform provides a structured approach to understanding:
 - how operational episodes challenge flexibility assets  
 - which physical limitations matter most  
 - where economic value emerges for storage and other flexible technologies  
-- whether that value is sufficient to support investment whether that value is sufficient to support investment
+- whether that value is sufficient to support investment
 
 The platform is designed as a cumulative research programme in which each layer builds on the outputs of the previous layer.
 
