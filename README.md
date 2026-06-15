@@ -16,6 +16,10 @@ The analysis found the following:
 - Longer-duration assets are physically better aligned with persistent congestion, but face significantly greater economic hurdles.
 - The physical characteristics favoured by the network are not always those favoured by current market economics.
 
+In summary:
+
+- The project concludes that transmission constraints create measurable economic value, but is insufficient to support standalone battery investment.
+
 ## Purpose
 
 The platform provides a structured approach to understanding:
@@ -33,7 +37,7 @@ The platform is designed as a cumulative research programme in which each layer 
 The philosophy is simple:
 
 > Understand the physical system before evaluating economic value.
-> Operational behaviour is analysed before economic opportunity, and economic opportunity is evaluated before investment viability.
+> Analyse opperational behaviour before economic opportunity, and evaluate economic opportunity before investment viability.
 ---
 
 ## Scope
