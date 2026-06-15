@@ -1,8 +1,20 @@
 # GB Constraint Analytics Platform
 
-A three‑part analytical and modelling framework for understanding GB transmission constraints, storage feasibility, and flexibility economics. The platform integrates data engineering, operational behaviour analysis, and economic evaluation into a unified research environment.
+This is a three‑part analytical and modelling framework for understanding GB transmission constraints, storage feasibility, and flexibility economics. The platform melds data engineering, operational behaviour analysis, and economic evaluation into a unified research environment.
 
 ---
+
+## Headline Findings
+
+The analysis found the following:
+
+- Constraint burden is highly concentrated within a small number of transmission boundaries.
+- Persistent congestion creates measurable economic opportunity.
+- Power capability is typically a more important limitation than energy capacity.
+- Individual battery assets capture only a small fraction of total system opportunity.
+- Constraint-management revenues alone are insufficient to support standalone battery investment.
+- Longer-duration assets are physically better aligned with persistent congestion, but face significantly greater economic hurdles.
+- The physical characteristics favoured by the network are not always those favoured by current market economics.
 
 ## Purpose
 
@@ -12,6 +24,7 @@ The platform provides a structured approach to understanding:
 - how operational episodes challenge flexibility assets  
 - which physical limitations matter most  
 - where economic value emerges for storage and other flexible technologies  
+- whether that value is sufficient to support investment whether that value is sufficient to support investment
 
 The platform is designed as a cumulative research programme in which each layer builds on the outputs of the previous layer.
 
@@ -30,7 +43,7 @@ Data ingestion, validation, harmonisation, feature engineering, and construction
 GB‑wide screening of constraint persistence, burden concentration, clustering, and operational archetypes, followed by a **detailed North‑West case study** evaluating asset survivability, power and energy limitations, and state‑of‑charge dynamics for selected high‑burden transmission boundaries.
 
 ### Part III — Constraint Economics & System‑Level Value (NB13–NB17)
-Economic opportunity, revenue capture, investment viability, and the strategic implications of persistent North‑West transmission congestion.
+Economic opportunity, revenue capture, investment viability, and the strategic implications of the divergence between physical system requirements and market incentives.
 
 ---
 
