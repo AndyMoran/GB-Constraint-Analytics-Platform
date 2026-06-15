@@ -28,11 +28,19 @@ The platform provides a structured approach to understanding:
 
 The platform is designed as a cumulative research programme in which each layer builds on the outputs of the previous layer.
 
+## Research Philosophy
+
 The philosophy is simple:
 
 > Understand the physical system before evaluating economic value.
-
+> Operational behaviour is analysed before economic opportunity, and economic opportunity is evaluated before investment viability.
 ---
+
+## Scope
+
+This project is an empirical, physics-informed analysis of observed transmission constraints.
+
+It is not a power-system optimisation model, dispatch model, or investment recommendation.
 
 ## Project Structure
 
