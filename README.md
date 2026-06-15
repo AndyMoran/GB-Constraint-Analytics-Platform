@@ -37,7 +37,7 @@ The platform is designed as a cumulative research programme in which each layer 
 The philosophy is simple:
 
 > Understand the physical system before evaluating economic value.
-> Analyse opperational behaviour before economic opportunity, and evaluate economic opportunity before investment viability.
+> Analyse operational behaviour before economic opportunity, and evaluate economic opportunity before investment viability.
 ---
 
 ## Scope
