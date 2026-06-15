@@ -2,7 +2,7 @@
 
 ## Constraint Behaviour and Storage Feasibility in the Great Britain Electricity System: A North-West Transmission Constraint Case Study
 
-### Project Findings Report (Version 1)
+### Project Findings Report (1)
 
 ---
 
