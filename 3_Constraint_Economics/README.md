@@ -1,4 +1,4 @@
-Part III — Constraint Economics, Strategy & Robustness (NB13–NB18)
+# Part III — Constraint Economics, Strategy & Robustness (NB13–NB18)
 
 Economic Opportunity • Revenue Capture • Investment Viability • Strategic Interpretation • Robustness Testing
 
