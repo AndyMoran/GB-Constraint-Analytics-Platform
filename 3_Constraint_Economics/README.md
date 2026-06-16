@@ -127,7 +127,7 @@ A resilient future system requires coordinated evolution of storage deployment, 
 | Can constraint revenue alone support investment? | No |
 | Is storage still valuable? | Yes — as a complementary asset |
 
-##Status##
+## Status ##
 
 Part III is now complete.
 It integrates the economic and strategic layers of the GB Constraint Intelligence Platform and closes out the North‑West case study.
