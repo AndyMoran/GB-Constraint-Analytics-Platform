@@ -15,6 +15,7 @@ The analysis found the following:
 - Constraint-management revenues alone are insufficient to support standalone battery investment.
 - Longer-duration assets are physically better aligned with persistent congestion, but face significantly greater economic hurdles.
 - The physical characteristics favoured by the network are not always those favoured by current market economics.
+- The principal conclusions remain robust under extensive uncertainty and sensitivity testing.
 
 In summary:
 
