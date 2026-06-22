@@ -97,7 +97,7 @@ Alternative methodologies produced substantially different estimates of total op
 
 Economic value is highly sensitive to pricing assumptions.
 
-![Figure 1 – Revenue Attribution Robustness](../docs/figures/fig28_revenue_attribution_robustness.png)
+![Figure 1 – Revenue Attribution Robustness](docs/figures/fig28_revenue_attribution_robustness.png)
 
 Different pricing methodologies produce different valuations.
 
@@ -113,7 +113,7 @@ Across all tested pricing methodologies, representative assets captured approxim
 
 Physical findings are largely independent of pricing methodology.
 
-![Figure 2 – Capture Rate Robustness](../docs/figures/fig32_capture_rate_robustness.png)
+![Figure 2 – Capture Rate Robustness](docs/figures/fig28_revenue_attribution_robustness.png)
 
 The size of the pie changes.
 The slice captured does not.
@@ -132,7 +132,7 @@ While total opportunity changed, the relative performance of representative asse
 
 The physical limitations identified in NB14 are not driven by a specific conversion assumption.
 
-![Figure 3 – MW Conversion Sensitivity](../docs/figures/fig29_mw_cap_robustness.png)
+![Figure 3 – MW Conversion Sensitivity](docs/figures/fig29_mw_cap_robustness.png)
 
 Physical conclusions remain stable.
 
@@ -146,7 +146,7 @@ The concentration of opportunity within a small number of constraint groups pers
 
 The importance of location selection is robust.
 
-![Figure 4 – Opportunity Concentration Robustness](../docs/figures/fig34_concentration_robustness.png)
+![Figure 4 – Opportunity Concentration Robustness](docs/figures/fig18_economic_group_conentration.png)
 
 Location remains dominant.
 
@@ -164,7 +164,7 @@ Changes in discount rate, degradation and operating costs produced materially sm
 
 Revenue uncertainty dominates economic uncertainty.
 
-![Figure 5 – Sensitivity Hierarchy](../docs/figures/fig33_what_matters_most.png)
+![Figure 5 – Sensitivity Hierarchy](docs/figures/fig33_what_matters_most.png)
 
 Revenue assumptions matter most.
 
@@ -180,7 +180,7 @@ Constraint revenue consistently failed to generate sufficient cashflow to suppor
 
 Constraint management alone does not provide a viable standalone business model.
 
-![Figure 6 – Revenue Sufficiency Results](../docs/figures/fig24_revenue_v_operating_costs.png)
+![Figure 6 – Revenue Sufficiency Results](docs/figures/fig24_revenue_v_operating_costs.png)
 
 Revenue remains insufficient.
 
@@ -204,7 +204,7 @@ Across 10,000 simulations, no standalone configuration achieved a positive NPV.
 
 The viability conclusion is robust to uncertainty.
 
-![Figure 7 – Monte Carlo NPV Distribution](../docs/figures/fig30_npv_distribution.png)
+![Figure 7 – Monte Carlo NPV Distribution](docs/figures/fig30_mc_npv_distribution.png)
 
 No tested scenario generated positive standalone economics.
 
@@ -220,7 +220,7 @@ Constraint revenue alone is insufficient regardless of modelling assumptions.
 
 Revenue stacking is a requirement, not an optimisation.
 
-![Figure 8 – Viability Threshold Analysis](../docs/figures/fig32_impossibility_frontier.png)
+![Figure 8 – Viability Threshold Analysis](docs/figures/fig32_impossibility_frontier.png)
 
 The hurdle remains substantial.
 
