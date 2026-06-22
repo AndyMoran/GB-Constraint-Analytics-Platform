@@ -87,38 +87,20 @@ This study evaluates whether those findings are sensitive to the assumptions use
 
 # 2. Revenue Attribution Robustness
 
-## Finding 1 — Revenue Attribution Strongly Influences Opportunity Estimates
+## Finding 1 — Revenue Attribution Drives £ Value, But Physical Capture Remains Invariant
 
-Economic opportunity varies materially depending on how constraint value is attributed.
+Economic opportunity varies materially depending on how constraint value is attributed. Alternative pricing methodologies produced substantially different estimates of total opportunity (ranging from £890m to £16.3bn).
 
-Alternative methodologies produced substantially different estimates of total opportunity.
-
-### Implication
-
-Economic value is highly sensitive to pricing assumptions.
-
-![Figure 1 – Revenue Attribution Robustness](docs/figures/fig28_revenue_attribution_robustness.png)
-
-Different pricing methodologies produce different valuations.
-
----
-
-## Finding 2 — Physical Capture Rates Remain Stable
-
-Despite large changes in estimated opportunity, physical capture rates remained remarkably stable.
-
-Across all tested pricing methodologies, representative assets captured approximately 1.7–1.8% of total opportunity.
+However, despite these large changes in estimated absolute £ value, the physical capture rates remained remarkably stable. Across all tested pricing methodologies, representative assets captured approximately 1.7–1.8% of total opportunity.
 
 ### Implication
 
-Physical findings are largely independent of pricing methodology.
+Absolute economic value is highly sensitive to pricing assumptions, but physical findings are largely independent of pricing methodology. The size of the pie changes; the slice captured does not.
 
-![Figure 2 – Capture Rate Robustness](docs/figures/fig28_revenue_attribution_robustness.png)
+![Figure 1 — Revenue Attribution & Capture Rate Robustness](docs/figures/fig28_revenue_attribution_robustness.png)
 
-The size of the pie changes.
-The slice captured does not.
+*Figure 1 — Revenue Attribution & Capture Rate Robustness. While alternative pricing methodologies produce substantially different valuations of total opportunity (grey/blue bars), the physical capture rate achieved by representative assets remains invariant at 1.7–1.8% (red line).*
 
----
 
 # 3. Physical Assumption Robustness
 
