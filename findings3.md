@@ -30,7 +30,7 @@ The central research question is:
 
 ## Principal Findings
 
-The principal conclusions remain stable across all tested scenarios.
+The robustness analysis demonstrates that the conclusions from NB13–NB15 are not artefacts of individual modelling assumptions. While economic opportunity estimates vary substantially depending on valuation methodology, the physical constraints and investment conclusions remain stable.
 
 Revenue attribution introduces substantial uncertainty into estimates of economic opportunity, but has minimal impact on the physical capture rates achieved by representative battery assets.
 
@@ -89,7 +89,7 @@ This study evaluates whether those findings are sensitive to the assumptions use
 
 ## Finding 1 — Revenue Attribution Drives £ Value, But Physical Capture Remains Invariant
 
-Economic opportunity varies materially depending on how constraint value is attributed. Alternative pricing methodologies produced substantially different estimates of total opportunity (ranging from £890m to £16.3bn).
+Economic opportunity varies materially depending on how constraint value is attributed. This uncertainty affects absolute revenue estimates but does not change the ranking of physical limitations or investment conclusions. Alternative pricing methodologies produced substantially different estimates of total opportunity (ranging from £890m to £16.3bn).
 
 However, despite these large changes in estimated absolute £ value, the physical capture rates remained remarkably stable. Across all tested pricing methodologies, representative assets captured approximately 1.7–1.8% of total opportunity.
 
@@ -104,7 +104,7 @@ Absolute economic value is highly sensitive to pricing assumptions, but physical
 
 # 3. Physical Assumption Robustness
 
-## Finding 3 — MW Conversion Assumptions Have Limited Impact on Conclusions
+## Finding 2 — MW Conversion Assumptions Have Limited Impact on Conclusions
 
 Alternative MW conversion caps were tested to evaluate sensitivity to the burden-to-MW methodology.
 
@@ -120,7 +120,7 @@ Physical conclusions remain stable.
 
 ---
 
-## Finding 4 — Constraint Opportunity Remains Highly Concentrated
+## Finding 3 — Constraint Opportunity Remains Highly Concentrated
 
 The concentration of opportunity within a small number of constraint groups persists under all tested methodologies.
 
@@ -128,7 +128,7 @@ The concentration of opportunity within a small number of constraint groups pers
 
 The importance of location selection is robust.
 
-![Figure 4 – Opportunity Concentration Robustness](docs/figures/fig18_economic_group_conentration.png)
+![Figure 4 – Opportunity Concentration Robustness](docs/figures/fig18_economic_group_concentration.png)
 
 Location remains dominant.
 
@@ -136,7 +136,7 @@ Location remains dominant.
 
 # 4. Investment Robustness
 
-## Finding 5 — Revenue Assumptions Dominate Economic Outcomes
+## Finding 4 — Revenue Assumptions Dominate Economic Outcomes
 
 Among all tested parameters, revenue attribution produced the largest variation in NPV outcomes.
 
@@ -152,7 +152,7 @@ Revenue assumptions matter most.
 
 ---
 
-## Finding 6 — Standalone Viability Remains Absent
+## Finding 5 — Standalone Viability Remains Absent
 
 No tested configuration achieved standalone economic viability under the simulated range of assumptions.
 
@@ -170,7 +170,7 @@ Revenue remains insufficient.
 
 # 5. Monte Carlo Assessment
 
-## Finding 7 — Probability of Positive NPV is Effectively Zero
+## Finding 6 — Probability of Positive NPV is Effectively Zero
 
 A Monte Carlo simulation was used to test uncertainty in:
 
@@ -192,7 +192,7 @@ No tested scenario generated positive standalone economics.
 
 ---
 
-## Finding 8 — Revenue Stacking Remains Necessary
+## Finding 7 — Revenue Stacking Remains Necessary
 
 Sensitivity analysis demonstrates that additional revenue streams are required to bridge the viability gap.
 
@@ -284,7 +284,7 @@ Future locational pricing reforms could materially alter the economics of conges
 
 # 9. Confidence Assessment
 
-| Conclusion                                | Confidence |
+| Conclusion                                | Assessment |
 | ----------------------------------------- | ---------- |
 | Constraints create measurable opportunity | Very High  |
 | Opportunity is concentrated               | Very High  |
