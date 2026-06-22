@@ -97,7 +97,7 @@ Alternative methodologies produced substantially different estimates of total op
 
 Economic value is highly sensitive to pricing assumptions.
 
-![Figure 1 – Revenue Attribution Sensitivity](../docs/figures/fig31_pricing_sensitivity.png)
+![Figure 1 – Revenue Attribution Robustness](../docs/figures/fig28_revenue_attribution_robustness.png)
 
 Different pricing methodologies produce different valuations.
 
@@ -132,7 +132,7 @@ While total opportunity changed, the relative performance of representative asse
 
 The physical limitations identified in NB14 are not driven by a specific conversion assumption.
 
-![Figure 3 – MW Conversion Sensitivity](../docs/figures/fig33_mw_sensitivity.png)
+![Figure 3 – MW Conversion Sensitivity](../docs/figures/fig29_mw_cap_robustness.png)
 
 Physical conclusions remain stable.
 
@@ -164,7 +164,7 @@ Changes in discount rate, degradation and operating costs produced materially sm
 
 Revenue uncertainty dominates economic uncertainty.
 
-![Figure 5 – What Matters Most?](../docs/figures/fig35_tornado_chart.png)
+![Figure 5 – Sensitivity Hierarchy](../docs/figures/fig33_what_matters_most.png)
 
 Revenue assumptions matter most.
 
@@ -180,7 +180,7 @@ Constraint revenue consistently failed to generate sufficient cashflow to suppor
 
 Constraint management alone does not provide a viable standalone business model.
 
-![Figure 6 – Revenue Sufficiency Results](../docs/figures/fig36_revenue_sufficiency.png)
+![Figure 6 – Revenue Sufficiency Results](../docs/figures/fig24_revenue_v_operating_costs.png)
 
 Revenue remains insufficient.
 
@@ -204,7 +204,7 @@ Across 10,000 simulations, no standalone configuration achieved a positive NPV.
 
 The viability conclusion is robust to uncertainty.
 
-![Figure 7 – Monte Carlo NPV Distribution](../docs/figures/fig37_npv_distribution.png)
+![Figure 7 – Monte Carlo NPV Distribution](../docs/figures/fig30_npv_distribution.png)
 
 No tested scenario generated positive standalone economics.
 
@@ -220,7 +220,7 @@ Constraint revenue alone is insufficient regardless of modelling assumptions.
 
 Revenue stacking is a requirement, not an optimisation.
 
-![Figure 8 – Viability Threshold Analysis](../docs/figures/fig38_viability_threshold.png)
+![Figure 8 – Viability Threshold Analysis](../docs/figures/fig32_impossibility_frontier.png)
 
 The hurdle remains substantial.
 
