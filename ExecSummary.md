@@ -6,7 +6,7 @@ The assets the grid physically needs (4h–8h) face the highest economic hurdles
 
 ![Figure 1 — The Physical-Economic Tension](./docs/figures/fig26_revenue_opportunity.png)
 
-* Figure 1 — The Physical-Economic Tension. The assets the grid physically needs (4h–8h) are financially unfundable, while the assets the market funds (1h–2h) are physically inadequate and economically cannibalising.
+Figure 1 — The Physical-Economic Tension. The assets the grid physically needs (4h–8h) are financially unfundable, while the assets the market funds (1h–2h) are physically inadequate and economically cannibalising.
 
 ---
 
@@ -38,11 +38,11 @@ However, before evaluating revenue, we must establish the physical survivability
 
 ![Figure 2 — Constraint Burden Concentration](./docs/figures/fig07_burden_group.png)
 
-* 2 — Recovery Window Storyboard. Despite clustering, historical constraint episodes are separated by recovery windows that consistently exceed battery recharge requirements. The storyboard traces the charge-discharge-recharge cycle across representative episode sequences.
+2 — Recovery Window Storyboard. Despite clustering, historical constraint episodes are separated by recovery windows that consistently exceed battery recharge requirements. The storyboard traces the charge-discharge-recharge cycle across representative episode sequences.
 
 ![Figure 3 — The Coverage Frontier (Conceptual)](./docs/figures/fig04_coverage_frontier.png)
 
-* 3 — Safety Margin Distribution. Historical recovery windows (blue) exceed required recharge durations (red threshold) across the analysed episode population. No episode entered the recharge-risk region, confirming that inter-episode recovery is not the binding constraint.
+3 — Safety Margin Distribution. Historical recovery windows (blue) exceed required recharge durations (red threshold) across the analysed episode population. No episode entered the recharge-risk region, confirming that inter-episode recovery is not the binding constraint.
 
 The failure is not between episodes; it is during them.
 
@@ -50,7 +50,7 @@ Using a "Pipe and Tank" framework, we established that power capability (the pip
 
 ![Figure 4 — The Opportunity Funnel](./docs/figures/fig27_opportunity_funnel.png)
 
-* 4 — The Feasibility Phase Space (Conceptual). Power capability (the pipe) acts as the primary feasibility hurdle. Energy capacity (the tank) only becomes relevant after power requirements are satisfied. Most constraint events require a flow rate that exceeds the asset's inverter limits.
+4 — The Feasibility Phase Space (Conceptual). Power capability (the pipe) acts as the primary feasibility hurdle. Energy capacity (the tank) only becomes relevant after power requirements are satisfied. Most constraint events require a flow rate that exceeds the asset's inverter limits.
 
 When this physical filtration is applied, the accessible revenue collapses:
 
@@ -66,7 +66,7 @@ After applying these physical constraints, a representative 50MW 4h BESS capture
 
 ![Figure 5 — Revenue Sufficiency Test](./docs/figures/fig24_revenue_v_operating_costs.png)
 
-* 5 — Constraint Burden Concentration. Operational burden is hyper-concentrated within a small number of North-West transmission boundaries, with the top 5 groups accounting for ~95% of identified opportunity.
+5 — Constraint Burden Concentration. Operational burden is hyper-concentrated within a small number of North-West transmission boundaries, with the top 5 groups accounting for ~95% of identified opportunity.
 
 The filtration reveals two dominant physical insights that determine what remains:
 
@@ -74,7 +74,7 @@ Power Before Energy: The primary limiting factor is instantaneous power capabili
 
 ![Figure 6 — Probabilistic Reality Check](./docs/figures/fig30_mc_npv_distribution.png)
 
-* 6 — The Coverage Frontier. Increasing instantaneous power capability captures materially more value than increasing energy duration alone, confirming that power is the first-order physical hurdle.
+6 — The Coverage Frontier. Increasing instantaneous power capability captures materially more value than increasing energy duration alone, confirming that power is the first-order physical hurdle.
 
 Note: Economic opportunity estimates are sensitive to revenue attribution methodology. The conservative baseline uses Episode Mean pricing, which values all constraint episodes using their average stress premium. A positive-only pricing methodology provides an upper-bound sensitivity case by excluding zero-value periods. While absolute opportunity estimates vary materially, the physical capture conclusion remains unchanged.
 
@@ -84,7 +84,7 @@ NB15 introduced rigorous, pre-tax, unlevered project finance modelling to test s
 
 ![Figure 7 — The Impossibility Frontier (Conceptual)](./docs/figures/fig32_impossibility_frontier.png)
 
-* 7 — The Opportunity Funnel. Theoretical system value is filtered by physical friction and time, collapsing to a fraction of its original scale before becoming investable revenue.
+7 — The Opportunity Funnel. Theoretical system value is filtered by physical friction and time, collapsing to a fraction of its original scale before becoming investable revenue.
 
 Structural Cash Deficit: Across 40 tested configurations and 5 constraint groups, 100% of assets failed the Revenue Sufficiency Test. The best-case scenario (50MW 8h at NKILGRMO) generated enough constraint revenue to cover only 5% of annual Fixed O&M. All assets operate at a structural cash deficit from Year 1, rendering IRR and Payback mathematically undefined.
 
@@ -104,7 +104,7 @@ These targets are not optional — they represent the minimum revenue required f
 
 ![Figure 8 — Revenue Sufficiency Test](./docs/figures/fig24_revenue_v_operating_costs.png)
 
-* 8 — Revenue Sufficiency Test. Constraint-management revenue fails to cover basic operating costs for all tested configurations. The gap between actual revenue and the break-even line is approximately 20x–50x.
+8 — Revenue Sufficiency Test. Constraint-management revenue fails to cover basic operating costs for all tested configurations. The gap between actual revenue and the break-even line is approximately 20x–50x.
 
 ## 3. The Strategic Tension: A Market Trapped in a Pincer Movement
 
@@ -124,11 +124,11 @@ Conclusion: The market is building short-duration assets for financial survival,
 
 ![Figure 9 — Probabilistic Reality Check](./docs/figures/fig30_mc_npv_distribution.png)
 
-* 9 — Probabilistic Reality Check. Across 10,000 simulations of market and cost variables, the probability of a positive NPV remains exactly 0.00% for all tested asset configurations. Distribution shown for 50MW 4h asset. All other configurations exhibit similarly negative distributions.
+9 — Probabilistic Reality Check. Across 10,000 simulations of market and cost variables, the probability of a positive NPV remains exactly 0.00% for all tested asset configurations. Distribution shown for 50MW 4h asset. All other configurations exhibit similarly negative distributions.
 
 ![Figure 10 — The Impossibility Frontier](./docs/figures/fig32_impossibility_frontier.png)
 
-* 10 — The Impossibility Frontier (Conceptual). To achieve break-even on constraint revenue alone, would require exceeding the physically available constraint opportunity. This illustrates that the constraint opportunity is structurally insufficient.
+10 — The Impossibility Frontier (Conceptual). To achieve break-even on constraint revenue alone, would require exceeding the physically available constraint opportunity. This illustrates that the constraint opportunity is structurally insufficient.
 
 ## 4. Strategic Implications
 
@@ -166,4 +166,4 @@ Future system resilience will depend not on hoping merchant batteries will organ
 
 ![Figure 11 — Sensitivity Hierarchy](./docs/figures/fig33_what_matters_most.png)
 
-* 11 — Sensitivity Hierarchy. Revenue attribution and physical limits dominate all financial assumptions (Capex, Discount Rate), proving the robustness of the non-viability conclusion. The result is not driven by a single parameter — it is structurally determined.
+11 — Sensitivity Hierarchy. Revenue attribution and physical limits dominate all financial assumptions (Capex, Discount Rate), proving the robustness of the non-viability conclusion. The result is not driven by a single parameter — it is structurally determined.
