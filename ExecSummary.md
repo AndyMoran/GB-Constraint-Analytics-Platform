@@ -55,7 +55,7 @@ Using a "Pipe and Tank" framework, the study separates two failure modes:
 
 Historical simulations show that **Static Failure dominates**. The battery does not usually fail because the tank empties; it fails because the pipe is too narrow to access the available opportunity.
 
-![Figure 4 — The Feasibility Pipe & Tank Framework](./docs/figures/fig14_feasability_pipe_tank.png)
+![Figure 4 — The Feasibility Pipe & Tank Framework](./docs/figures/fig14_feasibility_pipe_tank.png)
 
 *Figure 4 — The Feasibility Pipe & Tank Framework. Power capability is the first-order physical constraint. Energy capacity only becomes valuable after the asset can physically access the constraint event.*
 
