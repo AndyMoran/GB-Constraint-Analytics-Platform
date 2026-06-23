@@ -65,7 +65,7 @@ When this physical filtration is applied, the accessible revenue collapses:
 |-----------|-------------------------------------------|------------------------|
 | Gross System Opportunity | ~£890m | Total theoretical value of all NW constraint events under Episode Mean pricing |
 | Capturable Revenue (Historical) | ~£15.3m | What a 50MW 4h asset could capture over 6.6 years after physical limits |
-| Annualised Capturable Revenue | ~£2.3m/year | What a developer receives per year after physics and time |
+| Annualised Gross Accessible Opportunity | ~£2.3m/year | What a developer receives per year after physics and time |
 
 After applying these physical constraints, a representative 50MW 4h BESS captures approximately **1.7%** of the total system constraint opportunity. This does not indicate poor asset performance. Rather, it demonstrates that **a single storage asset cannot substitute for a system-scale transmission constraint.**
 
@@ -133,6 +133,10 @@ The most critical finding of this project is the divergence between what the gri
 
 *Figure 9 — Probabilistic Reality Check. Across 10,000 simulations of market and cost variables, the probability of a positive NPV remains exactly 0.00% for all tested asset configurations. Distribution shown for 50MW 4h asset. All other configurations exhibit similarly negative distributions.*
 
+![Figure 10 — The Impossibility Frontier](./docs/figures/fig32_impossibility_frontier.png)
+
+10 — The Impossibility Frontier (Conceptual). To achieve break-even on constraint revenue alone, would require exceeding the physically available constraint opportunity. This illustrates that the constraint opportunity is structurally insufficient.
+
 ---
 
 ## 4. Strategic Implications
@@ -151,7 +155,7 @@ The most critical finding of this project is the divergence between what the gri
 
 1. **Wires are Mandatory; Batteries are Buckets:** A single BESS asset captures <2% of the total system constraint opportunity. Storage can alleviate marginal operational stress, but it cannot substitute for strategic transmission reinforcement (e.g., Eastern Green Link) when congestion becomes structural. You cannot empty an ocean using a bucket.
 
-2. **The Market Cannot Self-Correct Under Current Incentive Structures:** Because the short-duration merchant market is broken and the long-duration market is unfundable, NESO cannot rely on merchant developers to organically deploy the 4h–8h assets required to manage the transition before wires are finished.
+2. **The Market Cannot Self-Correct Under Current Incentive Structures:** Because the short-duration merchant market is broken and the long-duration market is unfundable, NESO cannot rely on merchant developers to organically deploy the 4h–8h assets required to manage the transition before wires are finished. The strategic asset is therefore unlikely to be "a battery at a constraint location"; it is more likely to be "control of a valuable grid-connected site where flexibility can be added.
 
 ### For Ofgem & Policymakers
 
@@ -171,6 +175,6 @@ While future market conditions may evolve, the magnitude of the gap between phys
 
 Future system resilience will depend not on hoping merchant batteries will organically solve grid bottlenecks, but on the successful, coordinated evolution of **strategic transmission reinforcement** (the physical pipe) and **targeted market design reform** (aligning financial incentives with physical reality).
 
-![Figure 10 — Sensitivity Hierarchy](./docs/figures/fig33_what_matters_most.png)
+![Figure 11 — Sensitivity Hierarchy](./docs/figures/fig33_what_matters_most.png)
 
-*Figure 10 — Sensitivity Hierarchy. Revenue attribution and physical limits dominate all financial assumptions (Capex, Discount Rate), proving the robustness of the non-viability conclusion. The result is not driven by a single parameter — it is structurally determined.*
+*Figure 11 — Sensitivity Hierarchy. Revenue attribution and physical limits dominate all financial assumptions (Capex, Discount Rate), proving the robustness of the non-viability conclusion. The result is not driven by a single parameter — it is structurally determined.*
