@@ -4,7 +4,7 @@
 
 The assets the grid physically needs (4h–8h) face the highest economic hurdles, while the assets most readily funded by current markets (1h–2h) provide less effective relief for persistent congestion.
 
-![Figure 1 — The Opportunity Gap](./docs/figures/fig26_revenue_opportunity.png)
+![Figure 1 — The Opportunity Gap](./docs/figures/fig26_revenue_opportunity.png){-}
 
 *Figure 1 — The Opportunity Gap. Gross system-level value collapses to a fraction of its original scale when physical limits are applied. The assets the grid physically needs (4h–8h) are financially unfundable, while the assets the market funds (1h–2h) are physically inadequate.*
 
@@ -38,11 +38,11 @@ Initial screening identified substantial theoretical gross constraint opportunit
 
 However, before evaluating revenue, we must establish the physical survivability of the assets. A common assumption is that clustered constraint events drain batteries, creating severe recharge risk. Historical state-of-charge simulations prove the opposite: recovery windows between episodes are vast, and assets begin virtually every constraint event fully charged.
 
-![Figure 2 — Recovery Window Storyboard](./docs/figures/fig12_recovery_window_storyboard.png)
+![Figure 2 — Recovery Window Storyboard](./docs/figures/fig12_recovery_window_storyboard.png){-}
 
 *Figure 2 — Recovery Window Storyboard. Historical constraint episodes are separated by recovery periods that exceed recharge requirements, demonstrating that inter-episode recovery is not the binding constraint.*
 
-![Figure 3 — Safety Margin Distribution](./docs/figures/fig13_safety_margin.png)
+![Figure 3 — Safety Margin Distribution](./docs/figures/fig13_safety_margin.png){-}
 
 *Figure 3 — Safety Margin Distribution. Historical recovery windows (blue) exceed required recharge durations (red threshold) across the analysed episode population. No episode entered the recharge-risk region, confirming that inter-episode recovery is not the binding constraint.*
 
@@ -55,7 +55,7 @@ Using a "Pipe and Tank" framework, the study separates two failure modes:
 
 Historical simulations show that **Static Failure dominates**. The battery does not usually fail because the tank empties; it fails because the pipe is too narrow to access the available opportunity.
 
-![Figure 4 — The Feasibility Pipe & Tank Framework](./docs/figures/fig14_feasibility_pipe_tank.png)
+![Figure 4 — The Feasibility Pipe & Tank Framework](./docs/figures/fig14_feasibility_pipe_tank.png){-}
 
 *Figure 4 — The Feasibility Pipe & Tank Framework. Power capability is the first-order physical constraint. Energy capacity only becomes valuable after the asset can physically access the constraint event.*
 
@@ -69,7 +69,7 @@ When this physical filtration is applied, the accessible revenue collapses:
 
 After applying these physical constraints, a representative 50MW 4h BESS captures approximately **1.7%** of the total system constraint opportunity. This does not indicate poor asset performance. Rather, it demonstrates that **a single storage asset cannot substitute for a system-scale transmission constraint.**
 
-![Figure 5 — Constraint Burden Concentration](./docs/figures/fig07_burden_group.png)
+![Figure 5 — Constraint Burden Concentration](./docs/figures/fig07_burden_group.png){-}
 
 *Figure 5 — Constraint Burden Concentration. Operational burden is hyper-concentrated within five North-West transmission boundaries, which account for ~95% of identified opportunity.*
 
@@ -77,7 +77,7 @@ The filtration reveals two dominant physical insights that determine what remain
 
 **Power Before Energy:** The primary limiting factor is instantaneous power capability (Static Failure), not energy depletion. Most missed opportunity occurs because the asset lacks the MW rating to respond to peak constraint events. Energy adequacy only becomes relevant after power requirements are satisfied — and for the representative asset, this was rarely the binding constraint.
 
-![Figure 6 — The Coverage Frontier](./docs/figures/fig04_coverage_frontier.png)
+![Figure 6 — The Coverage Frontier](./docs/figures/fig04_coverage_frontier.png){-}
 
 *Figure 6 — The Coverage Frontier. Increasing instantaneous power capability captures materially more value than increasing energy duration alone, confirming that power is the first-order physical hurdle.*
 
@@ -89,7 +89,7 @@ The filtration reveals two dominant physical insights that determine what remain
 
 NB15 introduced rigorous, pre-tax, unlevered project finance modelling to test standalone viability. The results demonstrate that constraint revenue acts only as a marginal top-up to a broader, highly pressured revenue stack.
 
-![Figure 7 — The Opportunity Funnel](./docs/figures/fig27_opportunity_funnel.png)
+![Figure 7 — The Opportunity Funnel](./docs/figures/fig27_opportunity_funnel.png){-}
 
 *Figure 7 — The Opportunity Funnel. Theoretical system value is filtered by physical friction and time, collapsing to a fraction of its original scale before becoming investable revenue.*
 
@@ -108,7 +108,7 @@ NB15 introduced rigorous, pre-tax, unlevered project finance modelling to test s
 
 These targets are **not optional** — they represent the minimum revenue required from all stacked markets combined to avoid negative NPV. Constraint revenue contributes a negligible fraction of this requirement.
 
-![Figure 8 — Revenue Sufficiency Test](./docs/figures/fig24_revenue_v_operating_costs.png)
+![Figure 8 — Revenue Sufficiency Test](./docs/figures/fig24_revenue_v_operating_costs.png){-}
 
 *Figure 8 — Revenue Sufficiency Test. Constraint-management revenue fails to cover basic operating costs for all tested configurations. The gap between actual revenue and the break-even line is approximately 20x–50x.*
 
@@ -129,11 +129,11 @@ The most critical finding of this project is the divergence between what the gri
 
 **Conclusion:** The market is building short-duration assets for financial survival, even though these assets are physically misaligned with the long-duration nature of the underlying transmission bottleneck. Furthermore, the primary business case for those short-duration assets (merchant surges) is collapsing due to oversupply. The market cannot self-correct to deploy the assets the grid actually needs.
 
-![Figure 9 — Probabilistic Reality Check](./docs/figures/fig30_mc_npv_distribution.png)
+![Figure 9 — Probabilistic Reality Check](./docs/figures/fig30_mc_npv_distribution.png){-}
 
 *Figure 9 — Probabilistic Reality Check. Across 10,000 simulations of market and cost variables, the probability of a positive NPV remains exactly 0.00% for all tested asset configurations. Distribution shown for 50MW 4h asset. All other configurations exhibit similarly negative distributions.*
 
-![Figure 10 — The Impossibility Frontier](./docs/figures/fig32_impossibility_frontier.png)
+![Figure 10 — The Impossibility Frontier](./docs/figures/fig32_impossibility_frontier.png){-}
 
 10 — The Impossibility Frontier (Conceptual). To achieve break-even on constraint revenue alone, would require exceeding the physically available constraint opportunity. This illustrates that the constraint opportunity is structurally insufficient.
 
@@ -175,6 +175,6 @@ While future market conditions may evolve, the magnitude of the gap between phys
 
 Future system resilience will depend not on hoping merchant batteries will organically solve grid bottlenecks, but on the successful, coordinated evolution of **strategic transmission reinforcement** (the physical pipe) and **targeted market design reform** (aligning financial incentives with physical reality).
 
-![Figure 11 — Sensitivity Hierarchy](./docs/figures/fig33_what_matters_most.png)
+![Figure 11 — Sensitivity Hierarchy](./docs/figures/fig33_what_matters_most.png){-}
 
 *Figure 11 — Sensitivity Hierarchy. Revenue attribution and physical limits dominate all financial assumptions (Capex, Discount Rate), proving the robustness of the non-viability conclusion. The result is not driven by a single parameter — it is structurally determined.*
