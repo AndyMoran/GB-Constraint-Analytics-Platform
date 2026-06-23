@@ -42,7 +42,7 @@ However, before evaluating revenue, we must establish the physical survivability
 
 2 — Recovery Window Storyboard. Despite clustering, historical constraint episodes are separated by recovery windows that consistently exceed battery recharge requirements. The storyboard traces the charge-discharge-recharge cycle across representative episode sequences.
 
-![Figure 3 — Safety Margin Distribution](./docs/figures/fig13_safety_margin_distribution.png)
+![Figure 3 — Safety Margin Distribution](./docs/figures/fig13_safety_margin.png)
 
 3 — Safety Margin Distribution. Historical recovery windows (blue) exceed required recharge durations (red threshold) across the analysed episode population. No episode entered the recharge-risk region, confirming that inter-episode recovery is not the binding constraint.
 
