@@ -36,11 +36,13 @@ Initial screening identified substantial theoretical gross constraint opportunit
 
 However, before evaluating revenue, we must establish the physical survivability of the assets. A common assumption is that clustered constraint events drain batteries, creating severe recharge risk. Historical state-of-charge simulations prove the opposite: recovery windows between episodes are vast, and assets begin virtually every constraint event fully charged.
 
-![Figure 2 — Constraint Burden Concentration](./docs/figures/fig07_burden_group.png)
+![Figure 2 — Recovery Window Storyboard](./docs/figures/fig12_recovery_window_storyboard.png)
+
+*Figure 2 — Recovery Window Storyboard. Historical constraint episodes are separated by recovery periods that exceed recharge requirements, demonstrating that inter-episode recovery is not the binding constraint.*
 
 2 — Recovery Window Storyboard. Despite clustering, historical constraint episodes are separated by recovery windows that consistently exceed battery recharge requirements. The storyboard traces the charge-discharge-recharge cycle across representative episode sequences.
 
-![Figure 3 — The Coverage Frontier (Conceptual)](./docs/figures/fig04_coverage_frontier.png)
+![Figure 3 — Safety Margin Distribution](./docs/figures/fig13_safety_margin_distribution.png)
 
 3 — Safety Margin Distribution. Historical recovery windows (blue) exceed required recharge durations (red threshold) across the analysed episode population. No episode entered the recharge-risk region, confirming that inter-episode recovery is not the binding constraint.
 
@@ -48,7 +50,7 @@ The failure is not between episodes; it is during them.
 
 Using a "Pipe and Tank" framework, we established that power capability (the pipe) is the primary design constraint, while energy capacity (the tank) only becomes relevant once power requirements are met. Most opportunities are missed because the asset lacks the instantaneous MW rating to respond to peak constraint events (Static Failure), not because it runs out of energy (Dynamic Depletion).
 
-![Figure 4 — The Opportunity Funnel](./docs/figures/fig27_opportunity_funnel.png)
+![Figure 4 — The Feasibility Phase Space](./docs/figures/fig32_impossibility_frontier.png)
 
 4 — The Feasibility Phase Space (Conceptual). Power capability (the pipe) acts as the primary feasibility hurdle. Energy capacity (the tank) only becomes relevant after power requirements are satisfied. Most constraint events require a flow rate that exceeds the asset's inverter limits.
 
@@ -64,7 +66,7 @@ When this physical filtration is applied, the accessible revenue collapses:
 
 After applying these physical constraints, a representative 50MW 4h BESS captures approximately 1.7% of the total system constraint opportunity. This does not indicate poor asset performance. Rather, it demonstrates that a single storage asset cannot substitute for a system-scale transmission constraint.
 
-![Figure 5 — Revenue Sufficiency Test](./docs/figures/fig24_revenue_v_operating_costs.png)
+![Figure 5 — Constraint Burden Concentration](./docs/figures/fig07_burden_group.png)
 
 5 — Constraint Burden Concentration. Operational burden is hyper-concentrated within a small number of North-West transmission boundaries, with the top 5 groups accounting for ~95% of identified opportunity.
 
@@ -72,17 +74,17 @@ The filtration reveals two dominant physical insights that determine what remain
 
 Power Before Energy: The primary limiting factor is instantaneous power capability (Static Failure), not energy depletion. Most missed opportunity occurs because the asset lacks the MW rating to respond to peak constraint events. Energy adequacy only becomes relevant after power requirements are satisfied — and for the representative asset, this was rarely the binding constraint.
 
-![Figure 6 — Probabilistic Reality Check](./docs/figures/fig30_mc_npv_distribution.png)
+![Figure 6 — The Coverage Frontier](./docs/figures/fig04_coverage_frontier.png)
 
 6 — The Coverage Frontier. Increasing instantaneous power capability captures materially more value than increasing energy duration alone, confirming that power is the first-order physical hurdle.
 
-Note: Economic opportunity estimates are sensitive to revenue attribution methodology. The conservative baseline uses Episode Mean pricing, which values all constraint episodes using their average stress premium. A positive-only pricing methodology provides an upper-bound sensitivity case by excluding zero-value periods. While absolute opportunity estimates vary materially, the physical capture conclusion remains unchanged.
+**Note:** Economic opportunity estimates are sensitive to revenue attribution methodology. The conservative baseline uses Episode Mean pricing, which values all constraint episodes using their average stress premium. A positive-only pricing methodology provides an upper-bound sensitivity case by excluding zero-value periods. While absolute opportunity estimates vary materially, the physical capture conclusion remains unchanged.
 
 ## 2. The Economic Reality: The Merchant Case is Structurally Impaired
 
 NB15 introduced rigorous, pre-tax, unlevered project finance modelling to test standalone viability. The results demonstrate that constraint revenue acts only as a marginal top-up to a broader, highly pressured revenue stack.
 
-![Figure 7 — The Impossibility Frontier (Conceptual)](./docs/figures/fig32_impossibility_frontier.png)
+![Figure 7 — The Opportunity Funnel](./docs/figures/fig27_opportunity_funnel.png)
 
 7 — The Opportunity Funnel. Theoretical system value is filtered by physical friction and time, collapsing to a fraction of its original scale before becoming investable revenue.
 
