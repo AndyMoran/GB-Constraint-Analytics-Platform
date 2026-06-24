@@ -135,7 +135,7 @@ The most critical finding of this project is the divergence between what the gri
 
 ![Figure 10 — The Impossibility Frontier](docs/figures/fig32_impossibility_frontier.png)
 
-10 — The Impossibility Frontier (Conceptual). To achieve break-even on constraint revenue alone, would require exceeding the physically available constraint opportunity. This illustrates that the constraint opportunity is structurally insufficient.
+*Figure 10 — The Impossibility Frontier (Conceptual). To achieve break-even on constraint revenue alone, would require exceeding the physically available constraint opportunity. This illustrates that the constraint opportunity is structurally insufficient.
 
 ---
 
